@@ -1,0 +1,1 @@
+# Estimating-True-Movie-Quality-and-Temporal-Rating-Bias-with-a-Bayesian-Hierarchical-Model
